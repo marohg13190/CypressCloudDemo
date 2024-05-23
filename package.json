@@ -1,0 +1,22 @@
+{
+  "name": "cypressclouddemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marohg13190/CypressCloudDemo.git"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marohg13190/CypressCloudDemo/issues"
+  },
+  "homepage": "https://github.com/marohg13190/CypressCloudDemo#readme",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
